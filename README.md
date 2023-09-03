@@ -5,6 +5,13 @@ A node Todo app deployed in container using Docker and did CI/CD integration wit
 * Jenkins plugins ( Github integration plugin )
 * Created github webhook and integrated with jenkins )
 
+# Tools:
+
+1. Ec2 Instance (Ubuntu)
+2. Docker
+3. Jenkins
+4. GitHub
+
 # Install These Packages::
 
 1. sudo apt install nodejs
