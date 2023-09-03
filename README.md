@@ -1,7 +1,8 @@
-Install these packages:
-------------------------
+NODE TODO CI/CD :
 
- apt install nodejs
- apt install npm
- npm install 
- node app.js
+# Install These Packages:
+
+1. sudo apt install nodejs
+2. sudo apt install npm
+3. sudo npm install
+4. node app.js
